@@ -17,7 +17,7 @@
 # safe the file
 
 #base function 
-def convert_milk_yield(value):
+def convert_milk_yield_kg_to_lbs(value):
     """
     Convert milk yield from kilograms to pounds.
 
